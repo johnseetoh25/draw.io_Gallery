@@ -1,17 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T16:48:27.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="a88udJUFtji0uJUtsBgs" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T16:52:06.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="v3JEAJR6OvZnaLCLt6AY" version="22.1.17" type="github">
   <diagram name="第 1 页" id="kpmuk1ibzoMcLN8SXdlH">
-    <mxGraphModel dx="2082" dy="1311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3078" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dcpNY8_qMibUtlgQIjlb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="dcpNY8_qMibUtlgQIjlb-1" target="dcpNY8_qMibUtlgQIjlb-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
           <mxGeometry x="440" y="130" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dcpNY8_qMibUtlgQIjlb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="dcpNY8_qMibUtlgQIjlb-2" target="dcpNY8_qMibUtlgQIjlb-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-2" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.monitor;" vertex="1" parent="1">
           <mxGeometry x="720" y="60" width="170" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="dcpNY8_qMibUtlgQIjlb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endArrow=classic;endFill=1;" edge="1" parent="1" source="dcpNY8_qMibUtlgQIjlb-3" target="dcpNY8_qMibUtlgQIjlb-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.desktop_pc;" vertex="1" parent="1">
-          <mxGeometry x="260" y="150" width="90" height="180" as="geometry" />
+          <mxGeometry x="180" y="150" width="90" height="180" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Keyboard&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="915" width="240" height="100" as="geometry" />
@@ -29,10 +38,10 @@
           <mxGeometry x="440" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-9" value="DP1.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="80" height="30" as="geometry" />
+          <mxGeometry x="180" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-10" value="DP1.4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="380" width="80" height="30" as="geometry" />
+          <mxGeometry x="180" y="380" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-11" value="DP1.2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="720" y="410" width="80" height="30" as="geometry" />
@@ -44,7 +53,7 @@
           <mxGeometry x="880" y="410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-14" value="VGA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="350" width="80" height="30" as="geometry" />
+          <mxGeometry x="180" y="350" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#3399FF;endArrow=none;endFill=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dcpNY8_qMibUtlgQIjlb-15" target="dcpNY8_qMibUtlgQIjlb-8">
           <mxGeometry relative="1" as="geometry">
@@ -69,22 +78,22 @@
           <mxGeometry x="510" y="560" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-22" value="USB 2.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="350" width="160" height="30" as="geometry" />
+          <mxGeometry y="350" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-23" value="USB 2.0 with PowerShare" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="380" width="160" height="30" as="geometry" />
+          <mxGeometry y="380" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-24" value="USB 3.2 Gen 2X2 (Type C)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="440" width="160" height="30" as="geometry" />
+          <mxGeometry y="440" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-25" value="USB 3.2 Gen 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="410" width="160" height="30" as="geometry" />
+          <mxGeometry y="410" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-26" value="USB 3.2 Gen 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="150" width="160" height="30" as="geometry" />
+          <mxGeometry y="150" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-27" value="USB 2.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="160" height="30" as="geometry" />
+          <mxGeometry y="300" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;strokeColor=#CC00CC;" edge="1" parent="1" source="dcpNY8_qMibUtlgQIjlb-28" target="dcpNY8_qMibUtlgQIjlb-49">
           <mxGeometry relative="1" as="geometry">
@@ -96,16 +105,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-28" value="USB 2.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="270" width="160" height="30" as="geometry" />
+          <mxGeometry y="270" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-29" value="USB 3.2 Gen 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="160" height="30" as="geometry" />
+          <mxGeometry y="240" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-30" value="USB 3.2 Gen 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="210" width="160" height="30" as="geometry" />
+          <mxGeometry y="210" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-31" value="USB 3.2 Gen 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="160" height="30" as="geometry" />
+          <mxGeometry y="180" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;USB 3.0 Switch&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="60" y="755" width="220" height="80" as="geometry" />
@@ -135,8 +144,25 @@
         <mxCell id="dcpNY8_qMibUtlgQIjlb-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;HMDI Switch&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="960" y="690" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="dcpNY8_qMibUtlgQIjlb-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="dcpNY8_qMibUtlgQIjlb-41" target="dcpNY8_qMibUtlgQIjlb-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1460" y="-200" />
+              <mxPoint x="330" y="-200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-41" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
           <mxGeometry x="1320" y="840" width="280" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dcpNY8_qMibUtlgQIjlb-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="dcpNY8_qMibUtlgQIjlb-42" target="dcpNY8_qMibUtlgQIjlb-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1640" y="1250" />
+              <mxPoint x="1640" y="-240" />
+              <mxPoint x="260" y="-240" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-42" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.laptop;" vertex="1" parent="1">
           <mxGeometry x="1320" y="1150" width="280" height="200" as="geometry" />
@@ -157,7 +183,7 @@
           <mxGeometry x="1130" y="970" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-48" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.modem;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="225" y="570" width="160" height="60" as="geometry" />
+          <mxGeometry x="295" y="250" width="105" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dcpNY8_qMibUtlgQIjlb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=#CC00CC;" edge="1" parent="1" source="dcpNY8_qMibUtlgQIjlb-49" target="dcpNY8_qMibUtlgQIjlb-4">
           <mxGeometry relative="1" as="geometry">
