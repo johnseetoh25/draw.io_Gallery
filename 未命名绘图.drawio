@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T09:40:06.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="MUnzgB4V2X-eHs_vMpFX" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T09:42:11.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="im_mnIZ8b_OFfXevyrpx" version="23.1.5" type="github">
   <diagram name="第 1 页" id="rmo7FRRk1HXZuVqKOXv-">
-    <mxGraphModel dx="467" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,13 +25,19 @@
         <mxCell id="A8kxXYFChUdS3i_0TLAP-7" value="Consignment" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A8kxXYFChUdS3i_0TLAP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A8kxXYFChUdS3i_0TLAP-8" target="A8kxXYFChUdS3i_0TLAP-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A8kxXYFChUdS3i_0TLAP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="A8kxXYFChUdS3i_0TLAP-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="410" />
+              <mxPoint x="215" y="410" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="A8kxXYFChUdS3i_0TLAP-8" value="BNM" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="290" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8kxXYFChUdS3i_0TLAP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A8kxXYFChUdS3i_0TLAP-2">
+        <mxCell id="A8kxXYFChUdS3i_0TLAP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" target="A8kxXYFChUdS3i_0TLAP-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="380" as="sourcePoint" />
             <Array as="points">
