@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T02:29:22.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="3eR0mJR6jpIi8D22wSTr" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-21T02:53:35.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="vmReBpzOiN3naQkiMc4B" version="23.1.5" type="github">
   <diagram name="第 1 页" id="rmo7FRRk1HXZuVqKOXv-">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,15 @@
         <mxCell id="1" parent="0" />
         <mxCell id="A8kxXYFChUdS3i_0TLAP-1" value="Supplier" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8kxXYFChUdS3i_0TLAP-2" value="Procurement Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A8kxXYFChUdS3i_0TLAP-3" value="纪念币&lt;br&gt;(空白)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A8kxXYFChUdS3i_0TLAP-4" value="通用币&lt;br&gt;(空白)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
