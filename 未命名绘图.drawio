@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T05:24:32.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="JAMtg1AQohAwk3ZEnxzh" version="23.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-22T07:01:07.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="sgoXuVqPUDYDqGkR2XYm" version="23.1.5" type="github" pages="2">
   <diagram name="Quality Management" id="rmo7FRRk1HXZuVqKOXv-">
     <mxGraphModel dx="457" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,15 +71,27 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aAqxwHcbzxOQPm233ei1" name="第 2 页">
-    <mxGraphModel dx="1261" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1338" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lqpd8ByxtqMhc8lDs8NX-1" value="BNM" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="-120" y="40" width="280" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="Lqpd8ByxtqMhc8lDs8NX-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;CPCM&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="80" width="140" height="60" as="geometry" />
+        <mxCell id="Lqpd8ByxtqMhc8lDs8NX-3" value="CPCM" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="90" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lqpd8ByxtqMhc8lDs8NX-4" value="DND" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="160" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lqpd8ByxtqMhc8lDs8NX-5" value="KWG" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="230" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lqpd8ByxtqMhc8lDs8NX-6" value="QMS" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="300" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lqpd8ByxtqMhc8lDs8NX-7" value="Mint (Coin Manufactures)" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=30;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="300" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
