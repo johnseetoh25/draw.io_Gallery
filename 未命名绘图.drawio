@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T03:22:07.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="u-MgqKJde6bKT_skO8R4" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T03:38:15.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="AU8TyuQt2pxanGDaLEaW" version="23.1.5" type="github">
   <diagram name="Quality Management" id="rmo7FRRk1HXZuVqKOXv-">
-    <mxGraphModel dx="362" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="457" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,6 +54,12 @@
         </mxCell>
         <mxCell id="TU0HaO-7gnVRo5JdHawi-1" value="Quality Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TU0HaO-7gnVRo5JdHawi-4" value="纪念币&lt;br&gt;(正式)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TU0HaO-7gnVRo5JdHawi-5" value="流通硬币&lt;br&gt;(正式)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="840" y="40" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
