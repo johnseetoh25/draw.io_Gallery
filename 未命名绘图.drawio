@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T04:08:37.678Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="FQWo7eMDr851b_OBIaTf" version="23.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-23T04:23:03.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="S73_3q-A9NgOw9QwpqSb" version="23.1.5" type="github" pages="2">
   <diagram name="Quality Management" id="rmo7FRRk1HXZuVqKOXv-">
     <mxGraphModel dx="674" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="A8kxXYFChUdS3i_0TLAP-6" value="Quality Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="450" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A8kxXYFChUdS3i_0TLAP-7" value="Consignment" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="A8kxXYFChUdS3i_0TLAP-7" value="Consignment" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" parent="1" vertex="1">
           <mxGeometry x="630" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TU0HaO-7gnVRo5JdHawi-1" value="Quality Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
