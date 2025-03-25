@@ -31,8 +31,8 @@
         <mxCell id="7TBdmQA0a9mORZIZbR4s-11" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="800" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7TBdmQA0a9mORZIZbR4s-12" value="Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="640" width="760" height="40" as="geometry" />
+        <mxCell id="7TBdmQA0a9mORZIZbR4s-12" value="Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="620" width="440" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7TBdmQA0a9mORZIZbR4s-13" value="Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="960" y="580" width="120" height="40" as="geometry" />
