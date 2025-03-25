@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
-  <diagram name="Page-1" id="SyTChcYU1aQ-5yH067eZ">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0" pages="2">
+  <diagram name="server slide working" id="SyTChcYU1aQ-5yH067eZ">
     <mxGraphModel dx="2066" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -17,10 +17,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7TBdmQA0a9mORZIZbR4s-3" value="Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TBdmQA0a9mORZIZbR4s-4" value="Response" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7TBdmQA0a9mORZIZbR4s-9" value="Pipe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="580" width="120" height="40" as="geometry" />
@@ -63,6 +63,59 @@
         </mxCell>
         <mxCell id="7TBdmQA0a9mORZIZbR4s-22" value="handle data stored&amp;nbsp;&lt;div&gt;in database&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="qMm790mWluBMn-ma6uCe" name="API ">
+    <mxGraphModel dx="2066" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LMZgBkg802V293F1LidE-1" value="/messages/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-2" value="localhost: 3000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-3" value="{ &quot;Object&quot;: &quot;value&quot;}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="590" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-4" value="Haeder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-5" value="Body" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-6" value="GET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-7" value="POST" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-8" value="PUT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-9" value="DELETE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-10" value="&lt;b&gt;Action&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-11" value="&lt;b&gt;Host&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-12" value="&#39;3000&#39; is their own port serial number" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-13" value="&lt;b&gt;Param&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-14" value="&lt;b&gt;Title&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="600" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LMZgBkg802V293F1LidE-15" value="params value (like, ID, Object, etc.) when doing &#39;PUT&#39; and &#39;DELETE&#39; actions" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="800" y="280" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
