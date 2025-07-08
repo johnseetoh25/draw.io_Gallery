@@ -49,6 +49,9 @@
         <mxCell id="cFRwUy1MnwGUX4rj1gwE-15" value="Temperature Value" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="465.5" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cFRwUy1MnwGUX4rj1gwE-16" value="Freshwater&lt;div&gt;Seawater&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="445" y="465.5" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
