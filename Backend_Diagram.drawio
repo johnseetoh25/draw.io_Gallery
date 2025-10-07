@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.2" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="27.2.0" pages="4">
   <diagram name="server slide working" id="SyTChcYU1aQ-5yH067eZ">
     <mxGraphModel dx="2066" dy="1149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -139,6 +139,47 @@
         </mxCell>
         <mxCell id="39AExgTfF4ypliaXh5Fm-5" value="&lt;b&gt;Users Module&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="340" width="440" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GPnhDW3O77mmJbJIZe1K" name="Page-4">
+    <mxGraphModel dx="437" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-1" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="189" width="330" height="489" as="geometry" />
+        </mxCell>
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-2" value="前端&#xa;User Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="104" y="20" width="162" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-3" value="API&#xa;Application Programming Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="214" width="260" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-4" value="后端逻辑&#xa;Server-side Logic" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="94" y="406" width="182" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-5" value="数据库&#xa;Database" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="122" y="575" width="126" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-6" value="通过 API 请求与响应&#xa;进行数据交互" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sPiWaD76rTHCW6o2E-G7-2" target="sPiWaD76rTHCW6o2E-G7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-7" value="被调用并&#xa;返回结构化数据" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sPiWaD76rTHCW6o2E-G7-3" target="sPiWaD76rTHCW6o2E-G7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-8" value="执行查询与&#xa;持久化数据" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sPiWaD76rTHCW6o2E-G7-4" target="sPiWaD76rTHCW6o2E-G7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sPiWaD76rTHCW6o2E-G7-9" value="服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="189" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
