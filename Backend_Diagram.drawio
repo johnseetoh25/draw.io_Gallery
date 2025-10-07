@@ -179,7 +179,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sPiWaD76rTHCW6o2E-G7-9" value="服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="189" width="60" height="20" as="geometry" />
+          <mxGeometry x="20" y="169" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
