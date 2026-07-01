@@ -37,7 +37,7 @@
         <mxCell id="q-GymMJPH4nKwmtc7UX0-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Product&#39;s Feature or Highlight END&lt;/font&gt;" vertex="1">
           <mxGeometry height="84" width="340" x="540" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="q-GymMJPH4nKwmtc7UX0-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Nutrition List:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;- Ingredients&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;- Guaranteed Analysis&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=30;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Nutrition List:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;- Ingredients&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;- Guaranteed Analysis&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="500" width="640" x="240" y="680" as="geometry" />
         </mxCell>
         <mxCell id="q-GymMJPH4nKwmtc7UX0-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Suitable Feeding&lt;/font&gt;" vertex="1">
