@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="6v3gUOCL-g5ZajP_O9Xm">
+    <mxGraphModel dx="1703" dy="970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Product Picture&lt;/font&gt;" vertex="1">
+          <mxGeometry height="500" width="500" x="20" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Product&#39;s Feature or Highlight 01&lt;/font&gt;" vertex="1">
+          <mxGeometry height="84" width="340" x="540" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="860" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Brand Logo&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Product Name&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="190" x="670" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Breadcrumb Category: Cat Food&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="650" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Normal provide 3 ~ 6 bullet points of product&#39;s feature&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="84" width="340" x="540" y="576" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;...&lt;/span&gt;" vertex="1">
+          <mxGeometry height="84" width="340" x="540" y="368" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="520" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Product&#39;s Feature or Highlight 02&lt;/font&gt;" vertex="1">
+          <mxGeometry height="84" width="340" x="540" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Product&#39;s Feature or Highlight END&lt;/font&gt;" vertex="1">
+          <mxGeometry height="84" width="340" x="540" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Nutrition Table&lt;/font&gt;" vertex="1">
+          <mxGeometry height="500" width="640" x="240" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Suitable Feeding&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="200" x="20" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Feeding Description,&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="280" width="200" x="20" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Feeding Method or&amp;nbsp;Transition Guide&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="860" x="20" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="q-GymMJPH4nKwmtc7UX0-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;Storage Method&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="860" x="20" y="1420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
